@@ -1,3 +1,4 @@
+//THIS IS A CODE THAT  CALCULATES YOUR MARKS , PERCENTAGE AND GIVES A GRADE 
 #include <stdio.h>
 
 int main() {
@@ -19,7 +20,7 @@ int main() {
     printf("THE TOTAL AMOUNT OF MARKS SCORED BY YOU IS %d\n", e + m + c + p);
     total=e + m + c + p;
     per= total/4;
-    printf("THE PERCENTAGE OBTINED BY THE STUDENT IS %d\n",per);
+    printf("THE PERCENTAGE OBTINED BY THE STUDENT IS %f\n",per);
     if (per>=90){
         printf("YOU HAVE PASSED WITH AN A GRADE");
     }
