@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int e, m, c, p, total , per;
+    int e, m, c, p, total;
+    float per;
 
     printf("ENTER YOUR MARKS IN ENGLISH\n");
     scanf("%d", &e);
@@ -37,3 +38,4 @@ int main() {
     
     return 0;
 }
+
