@@ -27,10 +27,3 @@ This is a simple C program that calculates the **total marks**, **percentage**, 
 | Below 45%        | Fail  |
 
 ---
-
-## 🛠 How to Compile & Run
-
-### **Using GCC**
-```bash
-gcc marks.c -o marks
-./marks
