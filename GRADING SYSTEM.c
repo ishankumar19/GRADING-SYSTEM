@@ -1,3 +1,4 @@
+//this code helps you calculate the marks and percentage although i coudn't pass the grade b criteria in reality
 #include <stdio.h>
 
 int main() {
@@ -39,4 +40,5 @@ int main() {
     return 0;
 }
 //hope this is useful to you
+
 
