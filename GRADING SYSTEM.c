@@ -1,4 +1,3 @@
-//THIS IS A CODE THAT  CALCULATES YOUR MARKS , PERCENTAGE AND GIVES A GRADE 
 #include <stdio.h>
 
 int main() {
@@ -39,4 +38,5 @@ int main() {
     
     return 0;
 }
+//hope this is useful to you
 
